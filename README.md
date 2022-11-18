@@ -1,7 +1,7 @@
 # Stock Analysis with VBA
 
 ## Overview of Project
-Steve recently began a career in finance and is conducting a stock analysis for some prospective investments for his first clients: his parents.  He requested a VBA macro to conduct an alysis on a specific dataset of a set group of stocks over a two-year window.  Now he wants to increase the scope of his analysis to the entire stock market over a larger time frame.
+Steve recently began a career in finance and is conducting a stock analysis for some prospective investments for his first clients: his parents.  He requested a VBA macro to conduct an analysis on a specific dataset containing a set group of stocks over a two-year window.  Now he wants to increase the scope of his analysis to the entire stock market over a larger time frame.
 ### Purpose
 The purpose of this project is to refactor the original stock analysis script created in VBA and develop a better script that can handle a larger dataset in less time and more efficiently.
 ## Results
